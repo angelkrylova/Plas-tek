@@ -1,0 +1,381 @@
+﻿@media screen and (max-width: 1015px) {
+    .sl__slide ul {
+        width: 43%
+    }
+}
+
+@media screen and (max-width: 980px){
+    .btns:first-child{
+        margin-top:40px
+    }
+    .margin{
+        width:100%
+    }
+    .img_17, .img_19, .img_20{
+        top:3100px
+    }
+    .img_24{
+        top: 4100px
+    }
+    .img_26, .img_27{
+        top:4450px
+    }
+    .img_25 {
+        width:20%;
+        top: 4400px
+    }
+    .img_21, .img_22, .img_23 {
+        top: 4200px
+    }
+}
+@media screen and (max-width: 884px) {
+    .img_15, .img_16, .img_18{
+        top:1300px
+    }
+    .img_17, .img_19, .img_20{
+        top:3250px
+    }
+    .img_24{
+        top:4200px
+    }
+    .img_21, .img_22, .img_23{
+        top:4300px
+    }
+    .img_26, .img_27{
+        top:4550px
+    }
+}
+
+@media screen and (max-width: 800px){
+    .sl__slide ul {
+        width: 100%;
+        margin: 0;
+    }
+    .item ul{
+        width:100%;
+        float:left
+    }
+    .column {
+        width: 100%;
+        margin: 20px 0;
+    }
+    .sl__slide ul{
+        width:90%
+    } 
+    .sl__slide ul:last-child {
+        float: left
+    }
+    
+    .column:last-child .btns {
+        margin: 0
+    }
+    .img_15, .img_16, .img_18 {
+        top: 1350px
+    }
+    .img_17, .img_19, .img_20{
+        top:3050px
+    }
+    .img_24{
+        top:4430px
+    }
+    .img_26, .img_27, .img_25{
+        top:4750px
+    }
+    .img_21, .img_22, .img_23{
+        top:4530px
+    }
+}
+@media screen and (max-width: 736px) {
+    .img_24{
+        top:4450px
+    }
+    .img_26, .img_27, .img_25{
+        top:4800px
+    }
+    .img_21, .img_22, .img_23{
+        top:4530px
+    }
+    .img_11, .img_12, .img_14 {
+        top: 400px
+    }
+}
+@media screen and (max-width: 667px) {
+    .img_17, .img_19, .img_20{
+        top:3100px
+    }
+    .img_24{
+        top:4530px
+    }
+    .img_21, .img_22, .img_23{
+        top:4630px
+    }
+    .img_26, .img_27, .img_25{
+        top:4900px
+    }
+}
+
+@media screen and (max-width: 650px){
+    .item:last-child{
+        float:left
+    }
+    .item {
+        float: none;
+        max-width:100%
+    }
+    .item ul{
+        width:90%
+    }
+    .item p{
+        margin:0
+    }
+    .col:first-child {
+        width: 100%;
+    }
+    .col:last-child {
+        float: left;
+        margin-bottom:70px
+    }
+    .index_text {
+        width: 100%
+    }
+    .img_12 {
+        right: 20%;
+        top: 450px;
+    }
+    .img_11, .img_14{
+        top:450px
+    }
+    .img_15, .img_16, .img_18{
+        top:1850px
+    }
+    .img_17, .img_19, .img_20{
+        top:3550px
+    }
+    .img_24{
+        top:5000px
+    }
+    .img_26, .img_27, .img_25 {
+        top: 5300px
+    }
+    .img_21, .img_22, .img_23{
+        top:5100px
+    }
+}
+@media screen and (max-width:600px){
+    
+    .img_17, .img_19, .img_20{
+        top:3600px
+    } 
+    .img_21, .img_22, .img_23 {
+        top: 5200px
+    }
+    .img_24{
+        top:5100px
+    }
+    .img_26, .img_27, .img_25{
+        top:5500px
+    }
+}
+@media screen and (max-width: 500px) {
+    h3{
+        font-size:32px;
+        margin-top: 80px
+    }
+    .regular .text {
+        font-size: 32px;
+    }
+    .column .regular {
+        font-size: 24px
+    } 
+    .index_text {
+        font-size: 12px
+    }
+    .sl__slide{
+        margin:100px 0
+    }
+    .slick-dots{
+        bottom:0
+    }
+    .btn {
+        margin-top: -80px;
+    }
+    .column{
+        margin:10px 0
+    }
+    .three_background img{
+        max-width:70%;
+    }
+    
+    .margin {
+        margin: 30px 0
+    }
+    .img_11, .img_14{
+        width:40%
+    }
+    .img_15, .img_16, .img_18{
+        top:1700px
+    }
+    .img_17, .img_19, .img_20{
+        top:3350px
+    }
+    .img_24{
+        top:4600px
+    }
+    .img_21,.img_22{
+        display:none
+    }
+    .img_23{
+        top:4700px
+    }
+    .img_26 {
+        right: -70px;
+    }
+    .img_27 {
+        right: 40px;
+    }
+    .img_26, .img_27, .img_25{
+        top:5100px
+    }
+}
+@media screen and (max-width: 450px) {
+    .img_17, .img_19, .img_20{
+        top:3450px
+    }
+    .img_17, .img_19 {
+        width: 30%
+    }
+    .img_23{
+        top:4800px
+    }
+    .img_24 {
+        top: 4700px
+    }
+    .img_26, .img_27, .img_25{
+        top:5150px
+    }
+    .form{
+        width:74%
+    }
+}
+@media screen and (max-width: 430px) {
+    .head_log {
+        background: url(../img/logo-header.jpg) no-repeat 0 7px transparent;
+    }
+    .img_15, .img_16, .img_18 {
+        top: 1800px
+    } 
+    .img_17, .img_19, .img_20 {
+        top: 3500px
+    }
+    .img_23{
+        top:4950px
+    }
+    .img_24{
+        top:4850px
+    }
+    .img_26, .img_27, .img_25{
+        top:5350px
+    }
+}
+@media screen and (max-width:420px) {
+    .img_12 {
+        top: 550px;
+        right: 50px;
+    }
+    .img_11, .img_14{
+        top:550px
+    }
+    .img_17, .img_19, .img_20{
+        top:3600px
+    }
+    .col:last-child{
+        width:80%
+    }
+}
+
+@media screen and (max-width:410px){
+    .img_11, .img_12, .img_14 {
+        top: 600px
+    }
+    .img_15, .img_16, .img_18{
+        top:1850px
+    }
+    .img_17, .img_19, .img_20{
+        top:3650px
+    }
+    .img_24{
+        top:4900px
+    }
+    .img_23 {
+        top: 5000px
+    }
+    .img_26, .img_27, .img_25{
+        top:5450px
+    }
+}
+@media screen and (max-width:375px){
+    .img_11, .img_12, .img_14{
+        top:700px
+    }
+    .img_15, .img_16, .img_18{
+        top:1950px
+    }
+    .img_17, .img_19, .img_20{
+        top:3750px
+    }
+    .img_24{
+        top:5100px
+    }
+    .img_26, .img_27, .img_25{
+        top:5600px
+    }
+    .img_23 {
+        top: 5200px
+    }
+    .form {
+        height: 520px;
+    }
+    .head__form{
+        padding:0
+    }
+    .img_1,.img_4, .img_5 {
+        top: 500px
+    }
+    .img_3{
+        top:-4px;
+        right:-4px
+    }
+}
+@media screen and (max-width:320px){
+    .img_11, .img_12, .img_14{
+        top:800px
+    }
+    .img_15, .img_18{
+        width:30%
+    }
+    .img_16 {
+        width: 20%;
+        left: 40px;
+    }
+    .img_15, .img_16, .img_18 {
+        top: 2150px
+    }
+    .img_17, .img_19, .img_20{
+        top:4170px
+    }
+    .img_24{
+        top:5620px
+    }
+    .img_26, .img_27, .img_25{
+        top:6350px
+    }
+    .img_23{
+        top:5700px
+    }
+    .form{
+        height:430px
+    }
+    .field{
+        padding:0
+    }
+}
