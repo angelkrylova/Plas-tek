@@ -31,7 +31,7 @@ $('.slide').slick({
     ]
 });
 
-/*Модельное окно*/
+/*Модальное окно*/
 
 $(document).ready(function () {
     $('a.order').click(function (event) {
